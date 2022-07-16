@@ -11,7 +11,7 @@
 ## Project Statement: 
 There has been huge upscale in the demand of medical services after the pandemic. People are in continuous search for reliable doctors. They need information in just few clicks. Appointments needed to be booked in no time. Various Healthcare services encompass many Healthcare solutions but usually lack the ability to showcase them. This project is platform where customers are destined to find their right doctors, book appointments right after. This lets businesses serve people in a better way.
 
-##Project Description : 
+## Project Description : 
 In recent times, we have witnessed a significant surge in healthcare services. People no longer want even the smallest symptoms go unnoticed. After a person is affected by the virus directly or in-directly, he or she is observed to have caught with new ailments, diseases, or situations. These might sometimes need immediate attention and care by the right set of professional doctors. Most of them end up with cardiology or pulmonary issues right after getting infected by the virus. These issues if left unattended may lead to serious outcomes soon.
 
 There is an urgent need for clinics, hospitals, laboratories, and healthcare services to bring their business online. This helps patients quickly land to solutions. Patients ask for simpler ways to browse through various services and doctors available ;be able to book an appointment with their fingertips and receive the appointment details just in time. It has been observed that many a times there isn’t enough time for the patient to visit a doctor and he/she needs immediate check up by a doctor. In that case, a web application letting patients interact with doctors live on video calls serves the patient justly.
